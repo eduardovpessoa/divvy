@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Divvy Test</string>
+    <string name="company">Company</string>
+    <string name="company_details">Company Details</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="open_maps">Open Maps</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Divvy Test</string>
+    <string name="company">Empresa</string>
+    <string name="company_details">Detalles de la Compañía</string>
+    <string name="name">Nombre</string>
+    <string name="address">Address</string>
+    <string name="open_maps">Open Maps</string>
+</resources>
